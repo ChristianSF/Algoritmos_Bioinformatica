@@ -10,9 +10,6 @@ Original file is located at
 """Simulações de Monte Carlo são uma classe de algoritmos que usam
 números aleatórios para obter resultados numéricos."""
 
-#Nome:Christian Silva de Freitas
-#RA: 140193
-
 import random
 import numpy as np
 import matplotlib.pyplot as plt
